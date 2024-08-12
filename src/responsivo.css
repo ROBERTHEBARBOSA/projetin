@@ -23,7 +23,7 @@
         height: 40rem;
         width: 40rem;
         flex-direction: column;
-        justify-content: baseline;
+        justify-content: center;
         align-items: flex-start;
         border: none;
         /* Removido para evitar qualquer interferência */
