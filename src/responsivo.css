@@ -21,7 +21,7 @@
     .divbtn {
         display: flex;
         height: 40rem;
-        width: 80rem;
+        width: 40rem;
         flex-direction: column;
         justify-content: baseline;
         align-items: flex-start;
@@ -29,7 +29,6 @@
         /* Removido para evitar qualquer interferência */
         position: relative;
         z-index: 2;
-        border: red 1px solid;
         margin-left: 45px;
 
     }
